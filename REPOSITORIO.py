@@ -11,6 +11,8 @@ class Bebida(Comida):
 
 menuComida=[]
 menuBebida=[]
+pagosrealizados=[]
+
 
 for i in range (1,14):
     nombre=str(input(f"Digite el nombre del platillo {i}"))
