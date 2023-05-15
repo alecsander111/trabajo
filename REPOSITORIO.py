@@ -33,3 +33,6 @@ for cualquierletra in range(1,12):
     Gaseosa
     Te->Granizado o normal"""
 
+print("Harlon no esta pendiente")
+print("L")
+
