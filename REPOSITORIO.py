@@ -178,6 +178,14 @@ while i==0:
         Mostrar()
     elif opcion==3:
         exit()
+<<<<<<< HEAD
+=======
+
+cantidadtotal=0
+for i in pagosrealizados:
+    cantidadtotal=cantidadtotal+pagosrealizados[i]
+print(cantidadtotal)
+>>>>>>> jefferson
 
     
         
