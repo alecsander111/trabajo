@@ -32,4 +32,9 @@ for cualquierletra in range(1,12):
     Jugo de guanabana->leche
     Gaseosa
     Te->Granizado o normal"""
+pagosrealizados=[]
+cantidadtotal=0
+for i in pagosrealizados:
+    cantidadtotal=cantidadtotal+pagosrealizados[i]
+print(cantidadtotal)
 
